@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projeto</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_secondary">Resultado</string>
+    <string name="sbotao">OK</string>
+
+
+    <string-array name="origem">
+        <item>Selecione a Origem</item>
+        <item>Aluno de SI</item>
+        <item>Aluno de CP</item>
+    </string-array>
+</resources>
